@@ -6,8 +6,8 @@ Omnifood Webpage
 
 
 [//]: # 
-  ![Omnifood webpage](demo/1.gif)
-  ![Omnifood webpage](demo/2.gif)
+  ![Omnifood webpage](Demo/1.gif)
+  ![Omnifood webpage](Demo/2.gif)
 
 
 <hr />
