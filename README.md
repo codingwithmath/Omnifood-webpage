@@ -6,10 +6,9 @@ Omnifood Webpage
 
 
 [//]: # 
-<div>
-  <img src="https://gfycat.com/slipperycolorlessbighornsheep" alt="demo" height="425">
-  <img src="https://gfycat.com/politepleasantadouri" alt="demo" height="425">
-</div>
+  ![Omnifood webpage](demo/1.gif)
+  ![Omnifood webpage](demo/2.gif)
+
 
 <hr />
 
