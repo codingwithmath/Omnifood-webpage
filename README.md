@@ -28,7 +28,7 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/matheus-almeida-9989b9
 [//]: #
 **I don’t use CSS FLEXBOX in this project.**
 Has a said before, the whole purpose was to understand HTML and CSS Basic (selectors, fonts, backgrounds, buttons, etc…)
-I know Flexbox make our lives way more easier, and I don’t need a grid file for the columns when i use flexbox.
+I know Flexbox make our lifes way more easier, and I don’t need a grid file for the columns when I use flexbox.
 
 
 ## MY JOURNEY
