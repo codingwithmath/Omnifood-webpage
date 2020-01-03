@@ -37,7 +37,7 @@ even this being a course project, I try to extract the most knowledgment possibl
 
 For me, the complexity of understand the functionalities of structure and style is low, the development don’t require logic. The essential is to know the tags, elements, selectors and properties.
 
-The most difficult part was to apply the best practise for the structure of my code. I always try to write a clean and understandable code, that can be performatic and peoples can read. My main concern was not to repeat the code for the same elements in the differents sections. 
+The most difficult part was to apply the best practise for the structure of my code. I always try to write a clean and understandable code, that can be performatic and peoples can read. My main concern was to not repeat the code for the same elements in the differents sections. 
 
 **GIT**
 
